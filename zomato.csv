@@ -1,0 +1,81 @@
+Platform,Date ,Day,Time,Meal,Restaurant,City,Type,Food1,Quantity1,Food2,Quantity2,Price,Mode of Payment
+Zomato,1/9/23,Monday,17:05,Snack,Pizza Hut,Nellore,American,Pizza,2,,,223,COD
+Zomato,1/13/23,Friday,16:15,Snack,Coffea,Raipur,Chinesse,Soup,2,,,180,UPI
+Zomato,1/14/23,Saturday,15:16,Lunch,Pizza Hut,Nellore,American,Pizza,2,,,203,COD
+Zomato,1/22/23,Sunday,23:33,Midnight Snack,Pizza Hut,Raipur,American,Pizza,2,,,144,COD
+Zomato,1/24/23,Tuesday,17:57,Miscellenous,Mystery Cafe & Bakes,Raipur,Dessert,Cake,1,,,525,UPI
+Zomato,1/30/23,Monday,23:24,Midnight Snack,McDonald's,Raipur,American,Burger,1,Fries,1,321,COD
+Zomato,4/3/23,Monday,1:12,Midnight Snack,Pizza Hut,Raipur,American,Pizza,1,,,120,COD
+Zomato,4/7/23,Friday,17:25,Snack,More Over Coffess,Raipur,American,Fries,1,,,225,COD
+Zomato,4/10/23,Monday,22:08,Dinner,Little Hut,Raipur,Chinesse,Noodles,1,Manchuria,1,285,COD
+Zomato,4/18/23,Tuesday,23:25,Midnight Snack,Pizza Hut,Raipur,American,Pizza,2,Panner Pocket,1,377,COD
+Zomato,4/29/23,Saturday,17:30,Snack,La Pinoz,Raipur,Italian,Pasta,1,Garlic Bread,1,243,COD
+Zomato,5/26/23,Friday,13:19,Lunch,Pizza Hut,Secunderabad,American,Pizza,4,,,529,COD
+Zomato,6/14/23,Wednesday,12:41,Lunch,Pizza Hut,Nellore,American,Pizza,3,,,275,COD
+Zomato,7/30/23,Sunday,21:51,Dinner,Pizza Hut,Bhilai,American,Pizza,2,,,271,COD
+Zomato,8/10/23,Thursday,0:00,Midnight Snack,KFC,Bhilai,American,Fries,2,Lava Cake,1,428,UPI
+Zomato,8/10/23,Thursday,15:08,Lunch,Pizza Hut,Bhilai,American,Pizza,2,,,293,COD
+Zomato,8/17/23,Thursday,17:14,Snack,La Pinoz,Bhilai,"Italian,Dessert",Pasta,1,Lava Cake,1,326,UPI
+Zomato,8/19/23,Saturday,15:03,Lunch,McDonald's,Bhilai,American,Burger,1,Fries,1,365,UPI
+Zomato,8/31/23,Thursday,23:03,Dinner,Eden,Bhilai,"Chinesse,North Indian",Fried Rice,1,Biriyani,1,500,UPI
+Zomato,9/4/23,Monday,19:45,Miscellenous,Mad Bakers,Bhilai,Dessert,Cake,1,,,737,UPI
+Zomato,9/4/23,Monday,22:33,Dinner,Crossroads,Bhilai,Chinesse,Spring Roll,1,,,170,UPI
+Zomato,9/6/23,Wednesday,15:53,Snack,McDonald's,Bhilai,American,Fries,1,,,210,UPI
+Zomato,9/10/23,Sunday,19:29,Snack,Eden,Bhilai,American,Fries,1,,,177,UPI
+Zomato,9/10/23,Sunday,21:31,Dinner,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,299,UPI
+Zomato,9/13/23,Wednesday,23:58,Midnight Snack,Pizza Hut,Bhilai,"Mexican,American",Jalapeno Poppers,1,Fries,1,289,UPI
+Zomato,9/14/23,Thursday,23:21,Midnight Snack,Wafflez,Bhilai,Dessert,Waffle,1,Thick Shake,1,205,UPI
+Zomato,9/15/23,Friday,12:20,Lunch,Biriyani By Kilo,Bhilai,North Indian,Biriyani,1,,,170,UPI
+Zomato,10/13/23,Friday,21:50,Midnight Snack,Mad Bakers,Bhilai,Dessert,Cake,2,,,223,UPI
+Zomato,10/15/23,Sunday,0:13,Midnight Snack,Chawal Bowl,Bhilai,"Chinesse,Dessert",Noodles,1,Cake,1,258,UPI
+Zomato,10/19/23,Thursday,14:26,Lunch,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,299,UPI
+Zomato,10/25/23,Wednesday,19:54,Dinner,Pizza Hut,Nellore,American,Pizza,1,,,495,COD
+Zomato,10/28/23,Saturday,20:23,Dinner,Vennela's Sai Zero Degrees,Chirala,"Chinesse,North Indian",Noodles,1,Chaat,1,273,UPI
+Zomato,10/29/23,Sunday,22:30,Dinner,RR Point,Vijayawada,North Indian,Roti,5,Paneer Butter Masala,1,177,COD
+Zomato,11/9/23,Thursday,13:29,Lunch,Dwarika,Bhilai,North Indian,Malai Kofta,1,Butter Naan,1,295,UPI
+Zomato,11/13/23,Monday,20:09,Dinner,Biriyani By Kilo,Bhilai,North Indian,Biriyani,1,,,268,UPI
+Zomato,1/25/24,Thursday,14:20,Lunch,Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,161,UPI
+Zomato,8/23/24,Friday,19:43,Dinner,Namaskaram Oota,Bhilai,South Indian,Tomato Rice,1,Dosa,1,124,UPI
+Zomato,8/27/24,Tuesday,19:36,Dinner,Namaskaram Oota,Bhilai,South Indian,Dosa,1,Punugulu,1,145,UPI
+Zomato,9/9/24,Monday,19:21,Snack,Namaskaram Oota,Bhilai,South Indian,Idly,1,Punugulu,1,165,UPI
+Zomato,9/14/24,Saturday,18:56,Snack,Namaskaram Oota,Bhilai,South Indian,Dosa,1,Tomato Rice,1,172,COD
+Zomato,9/14/24,Saturday,18:58,Dinner,Namaskaram Oota,Bhilai,South Indian,Dosa,1,Tomato Rice,1,154,UPI
+Zomato,9/22/24,Sunday,19:42,Dinner,Namaskaram Oota,Bhilai,South Indian,Dosa,1,Idly,1,293,UPI
+Zomato,9/23/24,Monday,21:30,Dinner,Nomads Cafe,Bhilai,Italian,Pasta,1,,,111,UPI
+Zomato,9/26/24,Thursday,17:51,Snack,90s Cafe,Bhilai,North Indian,Garlic Rice,1,,,162,UPI
+Zomato,9/27/24,Friday,14:25,Lunch,Good Bowl,Bhilai,North Indian,Biriyani,1,,,189,UPI
+Zomato,9/30/24,Monday,22:07,Dinner,90s Cafe,Bhilai,Italian,Pasta,1,,,233,UPI
+Zomato,10/3/24,Thursday,10:41,Dinner,90s Cafe,Bhilai,Chinesse,Fried Rice,1,,,177,UPI
+Zomato,10/4/24,Friday,20:46,Dinner,90s Cafe,Bhilai,North Indian,Pav Bhaji,1,Khichdi,1,243,UPI
+Zomato,10/13/24,Sunday,19:52,Dinner,Pizza Project,Bhilai,American,Pizza,1,,,168,UPI
+Zomato,10/19/24,Saturday,20:09,Dinner,90s Cafe,Bhilai,Italian,Pasta,1,,,233,UPI
+Zomato,10/20,Sunday,21:49,Dinner,Namaskaram Oota,Bhilai,South Indian,Dosa,1,Idly,1,156,UPI
+Zomato,10/26/24,Saturday,21:54,Dinner,Idli&Dosa Junction,Bhilai,South Indian,Idly,1,Dosa,1,156,UPI
+Zomato,10/27/24,Sunday,20:34,Dinner,Cad M Cad B,Bhilai,Italian,Pasta,1,,,124,UPI
+Zomato,11/4/24,Monday,14:17,Lunch,Idli&Dosa Junction,Bhilai,South Indian,Idly,1,Dosa,1,146,UPI
+Zomato,11/11/24,Monday,21:57,Dinner,Haldiram's,Bhilai,North Indian,Biriyani,1,,,246,UPI
+Zomato,11/13/24,Wednesday,20:37,Dinner,Cad M Cad B,Bhilai,Italian,Pasta,1,,,233,UPI
+Zomato,11/15/24,Friday,13:57,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Zomato,11/18/24,Monday,12:51,Lunch,90s Cafe,Bhilai,Italian,Pasta,1,,,234,UPI
+Zomato,11/18/24,Monday,20:50,Dinner,Idli&Dosa Junction,Bhilai,South Indian,Idly,1,Dosa,1,139,UPI
+Zomato,11/22/24,Friday,22:20,Dinner,The Nomads Cafe,Bhilai,American,Burger,1,Fries,1,159,UPI
+Zomato,11/24/24,Sunday,13:06,Lunch,The Nomads Cafe,Bhilai,American,Burger,1,Garlic Bread,1,180,UPI
+Zomato,11/25/24,Monday,14:09,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Zomato,11/27/24,Wednesday,12:30,Lunch,The Nomads Cafe,Bhilai,American,Burger,1,Fries,1,159,UPI
+Zomato,11/27/24,Wednesday,20:19,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Zomato,11/28/24,Thursday,18:12,Snack,Belgian Waffle Co.,Bhilai,American,Waffle,1,,,206,UPI
+Zomato,11/29/24,Friday,7:02,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,238,UPI
+Zomato,11/30/24,Saturday,22:16,Dinner,The Nomads Cafe,Bhilai,North Indian,Fried Rice,1,,,174,UPI
+Zomato,12/2/24,Monday,15:46,Snack,The Nomads Cafe,Bhilai,American,Burger,1,Fries,1,159,UPI
+Zomato,12/2/24,Monday,20:28,Dinner,90s Cafe,Bhilai,Italian,Pasta,1,,,243,UPI
+Zomato,12/3/24,Tuesday,18:47,Dinner,Tiffins By The 90s Cafe,Bhilai,North Indian,Rice Bowl,1,,,177,UPI
+Zomato,12/5/24,Thursday,14:53,Lunch,The Nomads Cafe,Bhilai,American,Burger,1,Fries,1,159,UPI
+Zomato,12/6/24,Friday,19:33,Dinner,LunchBox,Bhilai,North Indian,Rice Bowl,1,,,184,UPI
+Zomato,12/11/24,Wednesday,18:01,Snack,A1 Restaurant,Nellore,North Indian,Manchurian,1,Crispy Corn,1,292,UPI
+Zomato,1/6/25,Monday,13:16,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,264,UPI
+Zomato,1/8/25,Wednesday,21:03,Dinner,90s Cafe,Bhilai,Italian,Pasta,1,,,199,UPI
+Zomato,1/9/25,Thursday,14:23,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,264,UPI
+Zomato,1/19/25,Sunday,19:37,Dinner,Haldiram's,Bhilai,"North Indian,American",Rice Bowl,1,Fries,1,282,UPI
+Zomato,2/4/25,Tuesday,13:58,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,282,UPI
+Zomato,2/10/25,Monday,20:49,Dinner,Haldiram's,Bhilai,"North Indian,American",Rice Bowl,1,Fries,1,282,UPI
+Zomato,2/11/25,Tuesday,11:41,Lunch,90s Cafe,Bhilai,"American, Italian",Garlic Bread,1,Pasta,1,299,UPI

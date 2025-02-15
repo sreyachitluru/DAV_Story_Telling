@@ -1,0 +1,63 @@
+Platform,Date ,Day,Time,Meal,Restaurant,City,Type,Food1,Quantity1,Food2,Quantity2,Price,Mode of Payment
+Swiggy,3/10/23,Friday,18:31,Snack,La Pinoz,Bhilai,Italian,Pasta,1,,,156,UPI
+Swiggy,3/31/23,Friday,15:51,Snack,La Pinoz,Bhilai,"Italian,American",Pasta,1,Garlic Bread,1,255,UPI
+Swiggy,11/16/23,Thursday,23:09,Midnight Snack,McDonald's,Bhilai,American,Burger,2,Fries,1,211,UPI
+Swiggy,11/17/23,Friday,23:54,Midnight Snack,The pancake co,Bhilai,Italian,Pasta,1,,,134,UPI
+Swiggy,11/23/23,Thursday,13:43,Lunch,Kiva,Bhilai,Italian,Pasta,1,,,172,UPI
+Swiggy,11/27/23,Monday,12:54,Lunch,The Nomads Cafe,Bhilai,Chinesse,Manchurian,1,Noodles,1,269,UPI
+Swiggy,11/28/23,Tuesday,19:11,Dinner,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,218,UPI
+Swiggy,12/1/23,Friday,0:10,Midnight Snack,McDonald's,Bhilai,American,Burger,1,Fries,1,221,UPI
+Swiggy,12/3/23,Sunday,13:34,Lunch,Malgudi,Bhilai,South Indian,Dosa,1,Idly,1,141,UPI
+Swiggy,12/4/23,Monday,18:00,Snack,The Pancake co,Bhilai,American,Sandwich,1,Pancake,1,211,UPI
+Swiggy,12/6/23,Wednesday,20:08,Dinner,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,207,UPI
+Swiggy,12/8/23,Friday,21:44,Dinner,Dominos,Bhilai,"American,Mexican",Pizza,1,Taco,1,268,UPI
+Swiggy,12/18/23,Monday,18:44,Snack,Exotica,Nellore,"American,Italian",Pizza,1,Pasta,1,434,UPI
+Swiggy,12/19/23,Tuesday,13:49,Lunch,Kritunga,Nellore,North Indian,Biriyani,1,,,319,UPI
+Swiggy,12/26/23,Tuesday,19:05,Dinner,La Pinoz,Bhilai,Italian,Lava Cake,1,Pasta,1,245,UPI
+Swiggy,12/29/23,Friday,12:50,Lunch,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,158,UPI
+Swiggy,12/30/23,Saturday,19:10,Dinner,McDonald's,Bhilai,American,Fries,1,Burger,1,296,UPI
+Swiggy,1/2/24,Tuesday,0:58,Midnight Snack,Pizza Hut,Bhilai,American,Pizza,1,,,166,UPI
+Swiggy,1/4/24,Thursday,12:20,Lunch,The Good Bowl,Bhilai,North Indian,Biriyani,1,,,234,UPI
+Swiggy,1/14/24,Sunday,16:57,Snack,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,157,UPI
+Swiggy,1/17/24,Wednesday,14:52,Lunch,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,157,UPI
+Swiggy,1/19/24,Friday,0:52,Midnight Snack,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,157,UPI
+Swiggy,1/23/24,Tuesday,18:34,Dinner,The Good Bowl,Bhilai,North Indian,Rice Bowl,1,,,157,UPI
+Swiggy,1/24/24,Wednesday,23:41,Midnight Snack,La Pinoz,Bhilai,Italian,Pasta,1,,,154,UPI
+Swiggy,1/25/24,Thursday,23:32,Midnight Snack,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,224,UPI
+Swiggy,2/1/24,Thursday,18:18,Snack,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,220,UPI
+Swiggy,2/4/24,Sunday,0:24,Midnight Snack,McDonald's,Bhilai,American,Burger,1,Fries,1,212,UPI
+Swiggy,2/6/24,Tuesday,22:27,Midnight Snack,Dominos,Bhilai,Mexican,Taco,1,,,315,UPI
+Swiggy,2/8/24,Thursday,22:23,Dinner,La Pinoz,Bhilai,"Italian,American",Pasta,1,Garlic Bread,1,196,UPI
+Swiggy,2/15/24,Thursday,9:08,Breakfast,Malgudi,Bhilai,South Indian,Vada,1,Dosa,1,130,UPI
+Swiggy,2/19/24,Monday,21:39,Dinner,La Pinoz,Bhilai,"Italian,American",Pasta,1,Pizza,1,185,UPI
+Swiggy,8/20/24,Tuesday,21:42,Dinner,Dominos,Bhilai,"American,Mexican",Pizza,1,Taco,1,262,UPI
+Swiggy,8/23/24,Friday,13:22,Lunch,Crossroads,Bhilai,Chinesse,Manchurian,1,Soup,1,252,UPI
+Swiggy,8/25/24,Sunday,13:40,Snack,Kauzina Kafe,Bhilai,American,Fries,1,,,125,UPI
+Swiggy,8/31/24,Saturday,23:20,Dinner,AL Lazees,Bhilai,North Indian,Biriyani,1,,,103,UPI
+Swiggy,9/3/24,Tuesday,22:39,Midnight Snack,The Nomads Cafe,Bhilai,Italian,Pasta,1,,,102,UPI
+Swiggy,9/16/24,Monday,22:20,Dinner,Ramji Khana Khazana,Bhilai,North Indian,Biriyani,1,Roti,1,300,UPI
+Swiggy,9/16/24,Monday,13:28,Lunch,90s Cafe,Bhilai,"American, Chinesse",Garlic Bread,1,Fried Rice,1,373,UPI
+Swiggy,9/19/24,Thursday,13:06,Lunch,Kailash Parbat,Bhilai,North Indian,Biriyani,1,,,249,UPI
+Swiggy,9/20/24,Friday,20:39,Dinner,La Pinoz,Bhilai,Italian,Pasta,1,Garlic Bread,1,197,UPI
+Swiggy,9/21/24,Saturday,22:49,Midnight Snack,Cad M Cad B,Bhilai,Chinesse,Sizzler,1,Spring Roll,1,359,UPI
+Swiggy,10/10/24,Thursday,20:31,Dinner,Idli&Dosa Junction,Bhilai,South Indian,Dosa,1,Idly,1,140,UPI
+Swiggy,10/10/24,Thursday,12:45,Lunch,90s Cafe,Bhilai,Italian,Pasta,1,,,173,UPI
+Swiggy,10/11/24,Friday,21:13,Dinner,Ramji Khana Khazana,Bhilai,North Indian,Rice,1,Khichdi,1,251,UPI
+Swiggy,10/23/24,Wednesday,14:22,Lunch,Behrouz Biriyani,Bhilai,North Indian,Biriyani,1,,,265,UPI
+Swiggy,10/26/24,Saturday,14:45,Lunch,McDonald's,Bhilai,American,Burger,2,,,186,UPI
+Swiggy,11/5/24,Tuesday,18:48,Snack,Cad M Cad B,Bhilai,"South Indian, Chinesse",Idly,1,Soup,1,129,UPI
+Swiggy,11/9/24,Saturday,21:57,Midnight Snack,Belgian Waffle Co.,Bhilai,Dessert,Waffle,1,Ice Cream,1,349,UPI
+Swiggy,11/10/24,Sunday,14:54,Lunch,Unlimited Biriyani,Bhilai,North Indian,Roti,2,Kaju Masala,1,243,UPI
+Swiggy,11/11/24,Monday,22:03,Dinner,Behrouz Biriyani,Bhilai,North Indian,Biriyani,1,,,281,UPI
+Swiggy,11/11/24,Monday,11:53,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,262,UPI
+Swiggy,12/19/24,Thursday,20:59,Midnight Snack,Belgian Waffle Co.,Nellore,Dessert,Waffle,1,,,224,UPI
+Swiggy,1/2/25,Thursday,17:37,Snack,The Nomads Cafe,Bhilai,"Chinesse,American",Soup,1,Fries,1,156,UPI
+Swiggy,1/3/25,Friday,22:07,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Swiggy,1/11/25,Saturday,20:03,Dinner,Real Momo,Bhilai,"American,Chinesse",Fries,1,Noodles,1,193,UPI
+Swiggy,1/14/25,Tuesday,14:15,Lunch,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Swiggy,1/16/25,Thursday,21:30,Lunch,Haldiram's,Bhilai,"North Indian,American",Rice Bowl,1,Fries,1,281,UPI
+Swiggy,1/16/25,Thursday,14:53,Lunch,Kaaram Podi,Bhilai,South Indian,Tomato Rice,1,Dosa,1,194,UPI
+Swiggy,1/17/25,Friday,21:37,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,268,UPI
+Swiggy,1/21/25,Tuesday,21:50,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,263,UPI
+Swiggy,1/23/25,Thursday,22:57,Dinner,Haldiram's,Bhilai,North Indian,Rice Bowl,1,Chaat,1,281,UPI
+Swiggy,1/31/25,Friday,22:36,Dinner,L Pino'z,Bhilai,Italian,Pasta,1,,,189,UPI
